@@ -5,7 +5,7 @@ Credit: SuperDataScience
 Credit: Tavish
 
 ----------------------------------------------------------------------------------------
-
+Support Vector for SVR
 <img width="481" alt="SVM" src="https://github.com/user-attachments/assets/c9173607-6f72-4f7b-9dd5-7d1c9fc9e0f5">
 Credit: SuperDataScience
 
