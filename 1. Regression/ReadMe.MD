@@ -4,7 +4,10 @@ Credit: SuperDataScience
 <img width="354" alt="graph" src="https://github.com/user-attachments/assets/83e14cb9-3098-4dcc-81ba-80c9406935e0">
 Credit: Tavish
 
+----------------------------------------------------------------------------------------
 
+<img width="481" alt="SVM" src="https://github.com/user-attachments/assets/c9173607-6f72-4f7b-9dd5-7d1c9fc9e0f5">
+Credit: SuperDataScience
 
 ----------------------------------------------------------------------------------------
 Asked ChatGPT why should we use sklearn.preprocessing import StandardScaler?
