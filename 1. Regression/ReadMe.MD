@@ -30,6 +30,6 @@ When do we know to use Scaler:
 See Youtube video: https://www.youtube.com/watch?v=n9KeJLGwW0U&t=313s
 
 ----------------------------------------------------------------------------------------
-<img width="719" alt="decisionTree1" src="https://github.com/user-attachments/assets/842a36ad-c96b-423d-918e-07ad694a0927">
-<img width="603" alt="decisionTree2" src="https://github.com/user-attachments/assets/025c2f07-2b23-4373-a06b-1584d4c45b46">
+<img width="719" alt="decisionTree1" src="https://github.com/user-attachments/assets/842a36ad-c96b-423d-918e-07ad694a0927"> Credit: SuperDataScience
+<img width="603" alt="decisionTree2" src="https://github.com/user-attachments/assets/025c2f07-2b23-4373-a06b-1584d4c45b46"> Credit: SuperDataScience
 
