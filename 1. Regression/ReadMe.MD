@@ -36,5 +36,6 @@ See Youtube video: https://www.youtube.com/watch?v=n9KeJLGwW0U&t=313s
 ----------------------------------------------------------------------------------------
 <img width="730" alt="RandomForeset" src="https://github.com/user-attachments/assets/2bffa99f-936e-4a62-b9f5-8a90317e8d6a"> Credit: SuperDataScience
 
+----
 <img width="500" alt="RandomForeset2" src="https://github.com/user-attachments/assets/595fe613-f29f-4138-acc3-51b13095f9df"> Credit: Rishi Sidhu
 
