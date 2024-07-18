@@ -34,6 +34,7 @@ See Youtube video: https://www.youtube.com/watch?v=n9KeJLGwW0U&t=313s
 <img width="603" alt="decisionTree2" src="https://github.com/user-attachments/assets/025c2f07-2b23-4373-a06b-1584d4c45b46"> Credit: SuperDataScience
 
 ----------------------------------------------------------------------------------------
-<img width="745" alt="RandomForeset" src="https://github.com/user-attachments/assets/2bffa99f-936e-4a62-b9f5-8a90317e8d6a"> Credit: SuperDataScience
-<img width="539" alt="RandomForeset2" src="https://github.com/user-attachments/assets/595fe613-f29f-4138-acc3-51b13095f9df"> Credit: Rishi Sidhu
+<img width="730" alt="RandomForeset" src="https://github.com/user-attachments/assets/2bffa99f-936e-4a62-b9f5-8a90317e8d6a"> Credit: SuperDataScience
+
+<img width="500" alt="RandomForeset2" src="https://github.com/user-attachments/assets/595fe613-f29f-4138-acc3-51b13095f9df"> Credit: Rishi Sidhu
 
