@@ -4,6 +4,6 @@ Credit: Super Data Science
 
 ---------
 
-<img width="528" alt="confusionMatrix2" src="https://github.com/user-attachments/assets/8def116a-b650-401e-9fef-5f419ff01fc4">
+<img width="700" alt="confusionMatrix2" src="https://github.com/user-attachments/assets/8def116a-b650-401e-9fef-5f419ff01fc4">
 
 Credit: Skye Tran
