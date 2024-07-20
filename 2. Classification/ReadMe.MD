@@ -4,10 +4,6 @@ Credit: Super Data Science
 
 ---------
 
-<img width="320" alt="confusionMatrix" src="https://github.com/user-attachments/assets/fe21976a-e340-4f83-a0fc-a319450f35ba">
+<img width="528" alt="confusionMatrix2" src="https://github.com/user-attachments/assets/8def116a-b650-401e-9fef-5f419ff01fc4">
 
-Credit: Towards Data Science
-
-<img width="379" alt="metrics" src="https://github.com/user-attachments/assets/5a5691c2-8b20-4a31-98ef-6715c21899fb">
-
-Credit: Data Camp
+Credit: Skye Tran
