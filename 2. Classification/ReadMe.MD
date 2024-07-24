@@ -13,5 +13,5 @@ Credit: Skye Tran
 
 ---------
 
-<img width="870" alt="KNN" src="https://github.com/user-attachments/assets/ecf1578b-00c3-4ddb-a5c6-453261b7b805">
+<img width="950" alt="KNN" src="https://github.com/user-attachments/assets/ecf1578b-00c3-4ddb-a5c6-453261b7b805">
 Credit: Super Data Science
