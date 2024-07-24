@@ -17,6 +17,7 @@ Credit: Skye Tran
 Credit: Super Data Science
 
 
+
 Always choose off number of K to avoid tie between the classes
 How to choose how many Ks to choose? Is more better? Not quite - overall you want to minimize the Error 1 - Accuracy
         - option 1 - elbow method
