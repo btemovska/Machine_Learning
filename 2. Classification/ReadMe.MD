@@ -16,8 +16,10 @@ Credit: Skye Tran
 <img width="970" alt="KNN" src="https://github.com/user-attachments/assets/ecf1578b-00c3-4ddb-a5c6-453261b7b805">
 Credit: Super Data Science
 
+
 - Always choose off number of K to avoid tie between the classes
 - How to choose how many Ks to choose? Is more better? Not quite - overall you want to minimize the Error 1 - Accuracy
         - option 1 - elbow method
         - option 2 - cross validate a grid search of multiple K values and choose K that reslts in lowest error or highest accuracy
+
 Credit: Jose Portilla
