@@ -11,3 +11,7 @@ Credit: Skye Tran
 - Precision - when prediction is positive, how often is it correct? Same in here, lower or zero score will alert you model isn't good. 
 - F1 score - it is the harmonic mean of precision and recall. Essentially reports back how well are you doing in both Recall and Precision in one number.
 
+---------
+
+<img width="771" alt="KNN" src="https://github.com/user-attachments/assets/ecf1578b-00c3-4ddb-a5c6-453261b7b805">
+Credit: Super Data Science
