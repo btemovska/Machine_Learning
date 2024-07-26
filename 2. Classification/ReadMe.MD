@@ -15,6 +15,8 @@ Credit: Skye Tran
 
 <img width="970" alt="KNN" src="https://github.com/user-attachments/assets/ecf1578b-00c3-4ddb-a5c6-453261b7b805"> Credit: Super Data Science
 
+KNN is almong the simplest algorithms, as it predicts on the basis of its closest neighbors in the training set. 
+
 Always choose off number of K to avoid tie between the classes
 How to choose how many Ks to choose, is more better? Not quite - overall you want to minimize the Error 1 - Accuracy
 - option 1 - elbow method
