@@ -21,3 +21,7 @@ How to choose how many Ks to choose, is more better? Not quite - overall you wan
 - option 2 - cross validate a grid search of multiple K values and choose K that reslts in lowest error or highest accuracy
 
 Credit: Jose Portilla
+
+---------
+
+<img width="850" alt="SVM" src="https://github.com/user-attachments/assets/8640ce11-e1df-4591-a622-3f123cd07756"> Credit: Super Data Science
