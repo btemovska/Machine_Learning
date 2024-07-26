@@ -17,10 +17,12 @@ Credit: Skye Tran
 
 KNN is almong the simplest algorithms, as it predicts on the basis of its closest neighbors in the training set. 
 
-Always choose off number of K to avoid tie between the classes
+Always choose odd number of K to avoid tie between the classes
 How to choose how many Ks to choose, is more better? Not quite - overall you want to minimize the Error 1 - Accuracy
 - option 1 - elbow method
 - option 2 - cross validate a grid search of multiple K values and choose K that reslts in lowest error or highest accuracy
+
+Always do Feature Scaling on KNN as it is impacted by distance. And it is never a bad thing to use Feature Scaling
 
 Credit: Jose Portilla
 
