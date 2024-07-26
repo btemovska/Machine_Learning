@@ -30,3 +30,16 @@ Always do Feature Scaling on KNN as it is impacted by distance. And it is never 
 ---------
 
 <img width="800" alt="SVM" src="https://github.com/user-attachments/assets/8640ce11-e1df-4591-a622-3f123cd07756"> Credit: Super Data Science
+
+SVM is one of the complex algorithms .
+Support Vector Classifier (with Soft Margins) - it is the kernels to project data to higher dimension to separate the data. 
+
+
+
+
+
+
+
+
+
+
