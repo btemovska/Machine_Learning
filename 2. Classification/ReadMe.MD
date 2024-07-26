@@ -24,4 +24,4 @@ Credit: Jose Portilla
 
 ---------
 
-<img width="850" alt="SVM" src="https://github.com/user-attachments/assets/8640ce11-e1df-4591-a622-3f123cd07756"> Credit: Super Data Science
+<img width="800" alt="SVM" src="https://github.com/user-attachments/assets/8640ce11-e1df-4591-a622-3f123cd07756"> Credit: Super Data Science
