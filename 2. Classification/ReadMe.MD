@@ -37,7 +37,7 @@ Support Vector Classifier (with Soft Margins) - it is the kernels to project dat
 
 ---------
 
-<img width="851" alt="DecisionTree" src="https://github.com/user-attachments/assets/88139e3e-02cd-4ad8-84a1-21f91e7f01b2">Credit: Super Data Science
+<img width="800" alt="DecisionTree" src="https://github.com/user-attachments/assets/88139e3e-02cd-4ad8-84a1-21f91e7f01b2">Credit: Super Data Science
 
 
 
