@@ -14,6 +14,7 @@ When do we know to use Scaler:
 
 - Especially around the models listed above, ex. KNN deals with distance (cm vs m)
 - Decision Trees, Random Forests, and Gradient Boosted Trees are generally not affected by feature scaling as they are based on hierarchical splitting and not distance measures.
+
 See Youtube video: https://www.youtube.com/watch?v=n9KeJLGwW0U&t=313s
 
 ---------
