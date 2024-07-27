@@ -35,6 +35,9 @@ SVM is one of the complex algorithms .
 Support Vector Classifier (with Soft Margins) - it is the kernels to project data to higher dimension to separate the data. 
 
 
+---------
+<img width="800" alt="DecisionTree" src="https://github.com/user-attachments/assets/af87ddf5-fe9b-4faa-bd22-3fefc35028d6">  Credit: Super Data Science
+
 
 
 
