@@ -17,6 +17,11 @@ When do we know to use Scaler:
 
 See Youtube video: https://www.youtube.com/watch?v=n9KeJLGwW0U&t=313s
 
+- Use Normalization when you need to scale features to a fixed range, especially for algorithms that rely on distance metrics or when working with neural networks (KNN, K-Means, Neural Networks)
+- Use Standardization when the data needs to be centered around zero with unit variance, especially for algorithms that assume normally distributed data or when features have different units (Linear Regression, Logistic Regression, SVM, PCA)
+ 
+Ultimately, the best approach is to experiment with both normalization and standardization, and validate the performance of your model using cross-validation.
+
 ---------
 
 <img width="745" alt="logistic" src="https://github.com/user-attachments/assets/14fdbb43-b6e3-4749-9d62-8948e03abdec">
