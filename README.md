@@ -5,6 +5,7 @@ I would like to go through and practice on majority, if not all, of the models l
 ----------
 
 <img width="648" alt="featureScailing" src="https://github.com/user-attachments/assets/26810063-5498-4ebb-b307-92890e641ce5">
+
 Credit: Super Data Science
 
 Scaling/Normalizing the data often improves the performance of many machine learning models, especially those that are sensitive to the scale of the input features, such as:
