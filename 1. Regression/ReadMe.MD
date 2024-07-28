@@ -11,25 +11,23 @@ Support Vector for SVR
 Credit: SuperDataScience
 
 ----------------------------------------------------------------------------------------
-Asked ChatGPT why should we use sklearn.preprocessing import StandardScaler?
+<img width="648" alt="featureScailing" src="https://github.com/user-attachments/assets/26810063-5498-4ebb-b307-92890e641ce5">    Credit: Super Data Science
 
-The StandardScaler from sklearn.preprocessing is used in machine learning and data preprocessing. The process ensures that your data is centered around 0 with a standard deviation of 1, which often improves the performance of many machine learning models, especially those that are sensitive to the scale of the input features, such as:
+Scaling/Normalizing the data often improves the performance of many machine learning models, especially those that are sensitive to the scale of the input features, such as:
+
 - Linear Regression: Helps ensure that the model treats each feature equally.
 - Logistic Regression: Assumes features are on a similar scale for better performance.
 - Support Vector Machines (SVM): Sensitive to the scale of the data and performs better when the data is standardized.
 - K-Nearest Neighbors (KNN): Distance-based algorithms like KNN are highly affected by the scale of the data.
 - Principal Component Analysis (PCA): Assumes that the data is centered and scaled.
 
-The formula used is:
-    z-score is z = (x-μ)/σ   (where x is the original feature, 𝜇 μ is the mean of the feature, and 𝜎 σ is the standard deviation)
-
-When do we know to use Scaler: 
-- Especially around the models listed above, ex. KNN deals with distance (cm vs m)
-- Decision Trees, Random Forests, and Gradient Boosted Trees are generally not affected by feature scaling as they are based on hierarchical splitting and not distance measures.
-
 See Youtube video: https://www.youtube.com/watch?v=n9KeJLGwW0U&t=313s
 
-<img width="648" alt="featureScailing" src="https://github.com/user-attachments/assets/26810063-5498-4ebb-b307-92890e641ce5">Credit: Super Data Science
+- Use Normalization when you need to scale features to a fixed range, especially for algorithms that rely on distance metrics or when working with neural networks (KNN, K-Means, Neural Networks)
+- Use Standardization when the data needs to be centered around zero with unit variance, especially for algorithms that assume normally distributed data or when features have different units (Linear Regression, Logistic Regression, SVM, PCA)
+- Decision Trees, Random Forests, and Gradient Boosted Trees are generally not affected by feature scaling as they are based on hierarchical splitting and not distance measures.
+ 
+Ultimately, the best approach is to experiment with both normalization and standardization, and validate the performance of your model using cross-validation.
 
 
 ----------------------------------------------------------------------------------------
