@@ -50,8 +50,11 @@ Instead of running one Decision Tree, run multiple Trees model into one big mode
 - Boostraping - random sampling with replacement
 - Out of Bag Error - because of boot strap sampling, some of the rows did not make it that boot strap sampling, and for those we can calculate the error/score. It is optional way of measuring performance, an alternative to using standard train/test split (Credit: Jose Portilla)
 
+---------
+Boosting - another method of improving on the single Decision Tree. Boosting is known for Meta-learning (Meta-learning, often referred to as "learning to learn," is a subfield of machine learning where the aim is to improve the learning algorithms themselves by leveraging past experiences.)
 
-
+<img width="515" alt="adaBoost" src="https://github.com/user-attachments/assets/ba242e36-857a-4152-9126-d11012599455">
+Credit: Towards Data Science
 
 
 
