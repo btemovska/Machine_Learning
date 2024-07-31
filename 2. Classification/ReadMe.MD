@@ -56,7 +56,7 @@ Boosting - another method of improving on the single Decision Tree. Boosting is 
 <img width="515" alt="adaBoost" src="https://github.com/user-attachments/assets/ba242e36-857a-4152-9126-d11012599455">
 Credit: Towards Data Science
 
-
+Geadient Boosing - similar to AdaBoost, except it makes use of residual error based on previous model. Credit: Jose Portilla
 
 
 
