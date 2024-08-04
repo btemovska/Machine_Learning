@@ -14,3 +14,15 @@ Unsupervised ML - does not have y-label. There is only X-features in the dataset
 3. Assignment Step: Assign each data point to the nearest centroid. This is done by calculating the Euclidean distance between each data point and each centroid, and assigning the point to the cluster with the closest centroid.
 4. Update Step: Recalculate the centroids of the clusters. This is done by taking the mean of all the data points assigned to each cluster. The new centroid is the arithmetic mean of the points in the cluster.
 5. Iteration: Repeat the Assignment and Update steps until the centroids no longer change significantly or a maximum number of iterations is reached. The algorithm has converged when the assignments no longer change or the change in the centroids is below a specified threshold.
+
+----------------------
+How to Evaluate the model?
+
+# The Silhouette Score is a measure of how well each data point is clustered, ranging from -1 to 1: 
+# Generally:
+# 0.5 - 1.0: Good to excellent clustering, indicating that clusters are well-separated and coherent.
+# 0.25 - 0.5: Moderate clustering, suggesting some overlap or poor separation between clusters.
+# Below 0.25: Poor clustering, indicating a high degree of overlap or inappropriate clustering.
+
+# positive number (closer to 1) means very well clustered
+# negative number (closer to -1) means incorrectly clustered
