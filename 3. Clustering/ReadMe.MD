@@ -18,11 +18,26 @@ Unsupervised ML - does not have y-label. There is only X-features in the dataset
 ----------------------
 How to Evaluate the model?
 
-# The Silhouette Score is a measure of how well each data point is clustered, ranging from -1 to 1: 
-# Generally:
-# 0.5 - 1.0: Good to excellent clustering, indicating that clusters are well-separated and coherent.
-# 0.25 - 0.5: Moderate clustering, suggesting some overlap or poor separation between clusters.
-# Below 0.25: Poor clustering, indicating a high degree of overlap or inappropriate clustering.
+OPTION 1 Elbow method:
 
-# positive number (closer to 1) means very well clustered
-# negative number (closer to -1) means incorrectly clustered
+OPTION 2 
+The Silhouette Score measures how similar each data point is to its own cluster compared to other clusters, ranging from -1 to 1: 
+Generally:
+- 0.5 - 1.0: Good to excellent clustering, indicating that clusters are well-separated and coherent.
+- 0.25 - 0.5: Moderate clustering, suggesting some overlap or poor separation between clusters.
+- Below 0.25: Poor clustering, indicating a high degree of overlap or inappropriate clustering.
+
+- positive number (closer to 1) means very well clustered
+- negative number (closer to -1) means incorrectly clustered
+
+
+OPTION 3 
+The Davies-Bouldin Index (DBI) is a metric used to evaluate the quality of clustering. It measures the average similarity ratio of each cluster with the cluster most similar to it. Lower values indicate better clustering performance, as they suggest that clusters are well-separated and compact.
+Less than 1: Typically considered excellent clustering.
+between 1 and less than 2: Good clustering, but improvements may be possible.
+between 2 and less than 5: Fair clustering with noticeable issues.
+greater 5: Poor clustering; significant issues with cluster separation or compactness.
+
+
+
+
