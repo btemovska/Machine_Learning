@@ -33,10 +33,10 @@ Generally:
 
 OPTION 3 
 The Davies-Bouldin Index (DBI) is a metric used to evaluate the quality of clustering. It measures the average similarity ratio of each cluster with the cluster most similar to it. Lower values indicate better clustering performance, as they suggest that clusters are well-separated and compact.
-Less than 1: Typically considered excellent clustering.
-between 1 and less than 2: Good clustering, but improvements may be possible.
-between 2 and less than 5: Fair clustering with noticeable issues.
-greater 5: Poor clustering; significant issues with cluster separation or compactness.
+- Less than 1: Typically considered excellent clustering.
+- between 1 and less than 2: Good clustering, but improvements may be possible.
+- between 2 and less than 5: Fair clustering with noticeable issues.
+- greater 5: Poor clustering; significant issues with cluster separation or compactness.
 
 
 
