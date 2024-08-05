@@ -16,7 +16,7 @@ Unsupervised ML - does not have y-label. There is only X-features in the dataset
 5. Iteration: Repeat the Assignment and Update steps until the centroids no longer change significantly or a maximum number of iterations is reached. The algorithm has converged when the assignments no longer change or the change in the centroids is below a specified threshold.
 
 ----------------------
-# How to Evaluate the model?
+### How to Evaluate the model?
 
 OPTION 1
 The Elbow Method helps determine the optimal number of clusters by plotting the sum of squared distances (or inertia) from each point to its assigned cluster center as a function of the number of clusters. Pick the cluster where the rate of decrease in inertia sharply shifts.
