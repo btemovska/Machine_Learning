@@ -18,7 +18,8 @@ Unsupervised ML - does not have y-label. There is only X-features in the dataset
 ----------------------
 # How to Evaluate the model?
 
-OPTION 1 Elbow method:
+OPTION 1
+The Elbow Method helps determine the optimal number of clusters by plotting the sum of squared distances (or inertia) from each point to its assigned cluster center as a function of the number of clusters. Pick the cluster where the rate of decrease in inertia sharply shifts.
 
 OPTION 2 
 The Silhouette Score measures how similar each data point is to its own cluster compared to other clusters, ranging from -1 to 1: 
