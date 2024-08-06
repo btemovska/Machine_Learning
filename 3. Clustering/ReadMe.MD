@@ -40,7 +40,7 @@ The Davies-Bouldin Index (DBI) is a metric used to evaluate the quality of clust
 - greater 5: Poor clustering; significant issues with cluster separation or compactness.
 
 ------------
-<img width="1000" alt="hierarchialClustering" src="https://github.com/user-attachments/assets/fa3404ce-e605-4895-a59a-4055f2307c1a">
+<img width="900" alt="hierarchialClustering" src="https://github.com/user-attachments/assets/fa3404ce-e605-4895-a59a-4055f2307c1a">
 Credit: DataCamp
 
 
