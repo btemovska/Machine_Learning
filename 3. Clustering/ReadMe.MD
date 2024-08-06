@@ -44,5 +44,9 @@ The Davies-Bouldin Index (DBI) is a metric used to evaluate the quality of clust
 Credit: DataCamp
 
 ------------
-#### DBSCAN - Densitiy-based spatial clustering of applications with noise is a powerful technique which can be used for clustering and outlier detection. Credit: Jose Portilla
+#### DBSCAN - Densitiy-based spatial clustering
+- is a powerful technique which can be used for clustering and outlier detection. It focuses on using density of points as its main factor for assigning cluster labels. 
+- Epsilon - increasing epsilon allows more ponts to be core points which also results in more border points and less outlier points
+Credit: Jose Portilla
+
 
