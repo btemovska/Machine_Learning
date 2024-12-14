@@ -4,10 +4,10 @@ Unsupervised ML - does not have y-label. There is only X-features in the dataset
 "Clustering uses unlabeled data and looks for similarities between groups (clusters) in order to attemt to segment the data into separate clusters" - Credit:  Jose Portilla
 
 ----------------------
-<img width="686" alt="clustering" src="https://github.com/user-attachments/assets/0c6ca979-fefa-4b50-bafd-8fcec2d8407d"> Credit: Super Data Science
+Clustering 
 
 ----------------------
-<img width="621" alt="k-means" src="https://github.com/user-attachments/assets/5ba1de4d-154c-4adb-9005-d53c7eb5bc8e">Credit: Super Data Science
+K-means clustering
 
 1. Initialization: Choose the number of clusters, 𝑘. 
 2. Initialize the centroids (means) of the clusters. This can be done randomly or by using some heuristic (e.g., k-means++).
