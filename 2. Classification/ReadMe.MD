@@ -1,5 +1,5 @@
-<img width="745" alt="logistic" src="https://github.com/user-attachments/assets/14fdbb43-b6e3-4749-9d62-8948e03abdec">
-Credit: Super Data Science
+Logistics Regression
+
 
 ---------
 
@@ -13,7 +13,9 @@ Credit: Skye Tran
 
 ---------
 
-<img width="970" alt="KNN" src="https://github.com/user-attachments/assets/ecf1578b-00c3-4ddb-a5c6-453261b7b805"> Credit: Super Data Science
+KNN
+
+
 
 KNN is almong the simplest algorithms, as it predicts on the basis of its closest neighbors in the training set. 
 
@@ -29,7 +31,8 @@ Always do Feature Scaling on KNN as it is impacted by distance. And it is never 
 
 ---------
 
-<img width="800" alt="SVM" src="https://github.com/user-attachments/assets/8640ce11-e1df-4591-a622-3f123cd07756"> Credit: Super Data Science
+SVM
+
 
 SVM is one of the complex algorithms .
 Support Vector Classifier (with Soft Margins) - it is the kernels to project data to higher dimension to separate the data. 
@@ -37,11 +40,10 @@ Support Vector Classifier (with Soft Margins) - it is the kernels to project dat
 
 ---------
 
-<img width="800" alt="DecisionTree" src="https://github.com/user-attachments/assets/88139e3e-02cd-4ad8-84a1-21f91e7f01b2">Credit: Super Data Science
-
+Decision Tree for Classification
 
 ---------
-<img width="800" alt="RandomForeset" src="https://github.com/user-attachments/assets/ed08216d-d3b4-4c33-8965-5a4d7736a3d3">Credit: Super Data Science
+Random Forest for Classification
 
 Instead of running one Decision Tree, run multiple Trees model into one big model. Pick subset of Tree create Decision model, then pick another Tree and create Decision Model. This is known as Ensemble Learning (multiple Decision Tree models into one model). Once you get the predictions for each Tree, then you tally up and if most of the predictions says it belongs to class 0 then it is 0, if most predictions say it belongs to class 1 then it is 1. Can also know the predicted probability (ex. if Tree 1 says it is class 0, Tree 2 is class 0, and Tree 3 is class class 1, then it looks like it belongs to class 0 with 2/3rds probability). Where in Regression, if Tree 1 says it is 10 and Tree 2 says it is 13 and Tree 3 says it is 11, then sum these and divide by num of trees which is 11.3. 
 
