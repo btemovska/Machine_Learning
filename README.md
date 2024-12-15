@@ -27,7 +27,7 @@ Ultimately, the best approach is to experiment with both normalization and stand
 ----------
 Ordinal Encoding:
 	- Satisfaction levels (satisfied: 3, neutral: 2, dissatisfied: 1)
-	- Shipment Priority (high: 1, medium: 2, low: 3
+	- Shipment Priority (high: 1, medium: 2, low: 3)
 	
 	from sklearn.preprocessing import OrdinalEncoder
 	order_priority_encoder = OrdinalEncoder(categories=[['High', 'Medium']])
