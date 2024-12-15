@@ -26,21 +26,20 @@ Ultimately, the best approach is to experiment with both normalization and stand
 
 ----------
 Ordinal Encoding:
-	Satisfaction levels (satisfied: 3, neutral: 2, dissatisfied: 1)
-	Shipment Priority (high: 1, medium: 2, low: 3
+	- Satisfaction levels (satisfied: 3, neutral: 2, dissatisfied: 1)
+	- Shipment Priority (high: 1, medium: 2, low: 3
 	
 	from sklearn.preprocessing import OrdinalEncoder
 	order_priority_encoder = OrdinalEncoder(categories=[['High', 'Medium']])
 	df['OrderPriority_Encoded'] = order_priority_encoder.fit_transform(df[['OrderPriority']]).astype(int)
 	
 Label Encoding:
-	Colors (red: 1, blue: 2, green: 3).
-	Payment Method (CreditCard: 1, Paypal: 2)
+	- Colors (red: 1, blue: 2, green: 3).
+	- Payment Method (CreditCard: 1, Paypal: 2)
 	
 	from sklearn.preprocessing import  LabelEncoder
 	payment_encoder = LabelEncoder()
 	df['PaymentMethod_Encoded'] = payment_encoder.fit_transform(df['PaymentMethod'])
 	
 One-Hot Encoding:
-	Creates a new binary variable (0 or 1) for each category.
-	Example: For colors, create separate columns for red, blue, and green, where each column indicates the presence (1) or absence (0) of that color.
+	- Creates a new binary variable (0 or 1) for each category.
