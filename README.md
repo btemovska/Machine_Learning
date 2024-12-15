@@ -37,7 +37,7 @@ Label Encoding:
 	- Colors (red: 1, blue: 2, green: 3).
 	- Payment Method (CreditCard: 1, Paypal: 2)
 	
-	from sklearn.preprocessing import  LabelEncoder
+	from sklearn.preprocessing import LabelEncoder
 	payment_encoder = LabelEncoder()
 	df['PaymentMethod_Encoded'] = payment_encoder.fit_transform(df['PaymentMethod'])
 	
