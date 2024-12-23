@@ -40,5 +40,7 @@ One-Hot Encoding:
  	- turn each product into True/False value (used for apriory algoritham)
 
 
+
+----------
   Sources:
   (Ankur A. Patel, 2019) Hands-On Unsupervised Learning Using Python. O'Reilly Media.
