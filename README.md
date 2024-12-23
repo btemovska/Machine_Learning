@@ -35,3 +35,6 @@ Label Encoding:
  
 One-Hot Encoding:
 	- Creates a new binary variable (0 or 1) for each category.
+
+ TransactionEncoder:
+ 	- turn each product into True/False value (used for apriory algoritham)
