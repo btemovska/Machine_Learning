@@ -15,8 +15,8 @@ Scaling/Normalizing the data often improves the performance of many machine lear
 
 See Youtube video: https://www.youtube.com/watch?v=n9KeJLGwW0U&t=313s
 
-- Use Normalization when you need to scale features to a fixed range, especially for algorithms that rely on distance metrics or when working with neural networks (KNN, K-Means, Neural Networks)
-- Use Standardization when the data needs to be centered around zero with unit variance, especially for algorithms that assume normally distributed data or when features have different units (Linear Regression, Logistic Regression, SVM, PCA). Standardization has mean of of zero and standard deviation of one.
+- Use Normalization when you need to scale features to a fixed range, especially for algorithms that rely on distance metrics or when working with neural networks (KNN, K-Means, Neural Networks). "Another common method to scale data is normalization, which rescales hte data to a zero to one range. Unlike the standardized data, all the normalized data is on a positive scale." (Ankur A. Patel, 2019)
+- Use Standardization when the data needs to be centered around zero with unit variance, especially for algorithms that assume normally distributed data or when features have different units (Linear Regression, Logistic Regression, SVM, PCA). "Standardization has mean of of zero and standard deviation of one. Some machine learning solutions are very sensiitve to the scale of the data, so having all the data on the same relative scale - via standardization - is a good machine learning practice." (Ankur A. Patel, 2019)
 - Decision Trees, Random Forests, and Gradient Boosted Trees are generally not affected by feature scaling as they are based on hierarchical splitting and not distance measures.
  
 Ultimately, the best approach is to experiment with both normalization and standardization, and validate the performance of your model using cross-validation.
@@ -38,3 +38,7 @@ One-Hot Encoding:
 
  TransactionEncoder:
  	- turn each product into True/False value (used for apriory algoritham)
+
+
+  Sources:
+  (Ankur A. Patel, 2019) Hands-On Unsupervised Learning Using Python. O'Reilly Media.
