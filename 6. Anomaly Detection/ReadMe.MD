@@ -1,5 +1,5 @@
 ------------
-##### 1. Z-Score
+#### 1. Z-Score
 
 - Concept: Measures how many standard deviations a data point is from the mean.  
 - How it works:Calculate the mean and standard deviation of the dataset. For each data point, calculate its Z-score: (data point - mean) / standard deviation. Data points with Z-scores exceeding a certain threshold (e.g., 3 or -3) are considered outliers.   
