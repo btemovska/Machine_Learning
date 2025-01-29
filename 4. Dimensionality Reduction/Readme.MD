@@ -1,4 +1,4 @@
-Yes, you're on the right track! Principal Component Analysis (PCA) is primarily a **dimensionality reduction technique**. Its main purpose is to transform a high-dimensional dataset into a lower-dimensional space while retaining as much of the **variance** (i.e., information) as possible. Here's how it fits into the workflow:
+**Principal Component Analysis (PCA)** is primarily a **dimensionality reduction technique**. Its main purpose is to transform a high-dimensional dataset into a lower-dimensional space while retaining as much of the **variance** (i.e., information) as possible. Here's how it fits into the workflow:
 
 1. **Preparation, Not Prediction**: 
    PCA is not a predictive model. Instead, it is used as a preprocessing step. It transforms your dataset into a new set of variables (called **principal components**) that are uncorrelated and ranked in order of importance (i.e., the first principal component explains the most variance, the second explains the next most, and so on). This transformation helps simplify the dataset while preserving its structure.
