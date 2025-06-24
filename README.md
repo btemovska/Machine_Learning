@@ -1,5 +1,3 @@
-I would like to go through and practice on majority, if not all, of the models listed below. My ultimate goal is to gain comprehensive understanding and compile detailed notes for future use on each model. Lets go!
-
 <img width="827" alt="ML" src="https://github.com/user-attachments/assets/f824a831-4ecd-40f5-b8f9-7076ef149982">
 
 ----------
